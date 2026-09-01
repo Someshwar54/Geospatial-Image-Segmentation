@@ -98,10 +98,3 @@ Geospatial-Image-Segmentation/
    4. **Evaluate Performance** - Compute validation metrics including IoU, Dice Score, and Accuracy.
    5. **Visualize Predictions** - Generate and display predicted masks over original images for qualitative analysis.
 
----
-
-## License & Attribution
-
-Maintained by Om Roy. Available for research, educational, and non-commercial development.
-
-
